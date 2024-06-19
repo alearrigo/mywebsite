@@ -1,0 +1,20 @@
+---
+title: "My Blog"
+author: ""
+page-layout: full
+listing: 
+- id: posts_2024
+  contents:
+      - ./ 
+      #- "00_test/00_test.qmd"
+  sort: "date desc" # can also sort on more than one field
+  categories: true # allows you to sort posts by assigned categories 
+toc-title: Year
+toc-location: right
+---
+
+
+## 2024
+
+:::{#posts_2024}
+:::

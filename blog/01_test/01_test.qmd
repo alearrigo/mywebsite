@@ -1,0 +1,10 @@
+---
+title: "Test post 1"
+description: "Test post"
+date: 2024-06-19
+categories: 
+  - news
+reference-location: margin
+draft: false
+title-block-banner: hello-world-bg.jpg
+---
