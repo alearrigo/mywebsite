@@ -1,19 +1,56 @@
+authorname: "Alessandro Arrigo"
+
 project:
   type: website
+  
+title-meta: "Marvin Schmitt"
+description-meta: "Computer Scientist & Psychologist | PhD researcher | Deep Learning, Data Science, Research"
+
 
 website:
-  title: "mywebsite"
+  title: "Alessandro Arrigo"
+  description: "Data Scientist | Healthcare Consultant"
+  #site-url: https://alearrigo.com
+  
+  search: 
+    location: navbar
+    type: textbox
+  
+  
   navbar:
+    logo: media/prova.jpeg
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    - href: index.qmd
+      text: Home
+    - href: projects/index.qmd
+      text: Projects
+    right:
+    - icon: twitter
+      href: https://x.com/alearrigo
+    - icon: github
+      href: https://github.com/alearrigo
+    - icon: linkedin
+      href: https://www.linkedin.com/in/alessandro-arrigo-82264332/
+    - icon: envelope
+      href: mailto:alessandro.arrigo.stat@gmail.com
+    
+  page-footer:
+    background: dark
+    left: Copyright 2024 - Alessandro Arrigo
+    right: This website is built with {{< fa heart title="a heart" >}}, [{{< fa brands github title="GitHub octocat logo" >}}]{target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
+    fontsize: 1.1em
+    theme: 
+      - flatly
+      - styles.scss
+    toc: false
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
+    highlight-style: monokai
 
 
 
