@@ -1,0 +1,15 @@
+---
+title: "Resources"
+html:
+    fontsize: 1.1em
+    theme: 
+      - flatly
+      - ./styles.scss
+---
+
+## Books
+
+### Data Science
+
+* A
+* B

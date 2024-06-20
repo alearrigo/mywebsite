@@ -19,6 +19,8 @@ website:
   
   
   navbar:
+    pinned: true
+    logo: /media/favicon.png
     left:
     - href: index.qmd
       text: Home
@@ -28,6 +30,8 @@ website:
       text: CV
     - href: blog/index.qmd
       text: Blog
+    - href: resources/index.qmd
+      text: Resources
     right:
     - icon: twitter
       href: https://x.com/alearrigo
@@ -39,7 +43,9 @@ website:
       href: mailto:alessandro.arrigo.stat@gmail.com
     - icon: rss
       href: docs/blog/index.xml
-    
+
+  favicon: /media/favicon.png    
+
   page-footer:
     background: dark
     left: Copyright 2024 - Alessandro Arrigo

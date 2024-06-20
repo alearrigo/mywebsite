@@ -80,11 +80,17 @@ pre.text, pre.sourceCode, .cell-output pre {
     padding-bottom: 0.25rem;
 }
 
+.navbar-brand img { 
+  max-height: 50px;
+  width: auto;
+}
+
 .navbar {
   z-index: 0;
   background: black;
   
 }
+
 
 .fixed-top {
  z-index:1000; 

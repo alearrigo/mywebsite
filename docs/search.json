@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Hi, I'm Alessandro.",
     "section": "",
-    "text": "I am a Statistician and R Developer working in consulting in Italian Healthcare Public Sector. I truly believe that R belong to production and with my clients bla bla \n            Attualmente lavoro per Suaders e per KPMG\n            If you want to work with me as a collaborator, supervisor, instructor, or public speaker, drop me a message: alessandro.arrigo.stat@gmail.com \n             or read a bit of my blog first."
+    "text": "I'm a Data Scientist and I'm currently working as a freelancer for various institutional and private clients.  One of my long-term clients is the Health Department of the Sicilian Region, where I have gained extensive expertise in the healthcare sector. Additionally, I work as a Product Manager for Suaders , a company that develops business intelligence products for the healthcare sector.\n\nI am a firm believer in the potential of R in the modern data landscape, and I constantly seek to update my skills and explore the latest open-source tools. In my work, I strive to demonstrate to clients the importance and advantages of open source. \n\nIf you want to work with me or just want to connect, drop me a message: alessandro.arrigo.stat@gmail.com  or read a bit of my blog first."
   },
   {
     "objectID": "index.html#last-blog-posts",
@@ -23,7 +23,7 @@
   {
     "objectID": "projects/index.html",
     "href": "projects/index.html",
-    "title": "About",
+    "title": "Project",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
@@ -40,5 +40,26 @@
     "title": "My Blog",
     "section": "",
     "text": "news\n\n\n\nTest post\n\n\n\n\n\nJun 19, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\nTest post\n\n\n\n\n\nJun 18, 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "resources/index.html",
+    "href": "resources/index.html",
+    "title": "Resources",
+    "section": "",
+    "text": "A\nB"
+  },
+  {
+    "objectID": "resources/index.html#data-science",
+    "href": "resources/index.html#data-science",
+    "title": "Resources",
+    "section": "",
+    "text": "A\nB"
+  },
+  {
+    "objectID": "resources/index.html#books",
+    "href": "resources/index.html#books",
+    "title": "Resources",
+    "section": "",
+    "text": "A\nB"
   }
 ]
