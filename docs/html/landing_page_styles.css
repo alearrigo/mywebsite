@@ -35,7 +35,7 @@ h1 {
 }
 
 a {
-    color: unset;
+    /*color: unset;*/
     text-decoration: none;
     text-decoration-color: var(--color-primary); /* Usa il colore primario per la decorazione del testo */
 }
@@ -266,10 +266,6 @@ a {
     }
 }
 
-#bottom_wave{
-  z-index: 7;
-  position:relative;
-}
 
 
 
@@ -289,21 +285,16 @@ a {
 
 
 
-
-@import url("https://fonts.googleapis.com/css?family=Lato:400,400i,700");
-
-body {
-  font-family: Lato, sans-serif;
-}
-
-
 svg {
   width:100%;
 }
 
+.wave-container {
+    margin-bottom: 100px; 
+}
 
 .wave {
-  animation: wave 3s linear;
+  animation: wave 20s linear;
   animation-iteration-count:infinite;
   fill:  var(--color-primary);
 }

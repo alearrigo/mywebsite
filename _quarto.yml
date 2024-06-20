@@ -19,7 +19,6 @@ website:
   
   
   navbar:
-    logo: media/prova.jpeg
     left:
     - href: index.qmd
       text: Home
