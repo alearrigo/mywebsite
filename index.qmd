@@ -2,10 +2,10 @@
 #title: "Alessandro Arrigo"
 image: media/prova.jpeg
 toc: false
-about:
- template: trestles # see other templates at https://quarto.org/docs/websites/website-about.html#templates
- image-shape: round
- image-width: 20em
+# about:
+#  template: trestles # see other templates at https://quarto.org/docs/websites/website-about.html#templates
+#  image-shape: round
+#  image-width: 20em
 listing:
   id: blog_post
   contents:   
@@ -22,7 +22,9 @@ Hi, I'm **Alessandro**.
 
 I'm a Data Scientist and Healtcare Consultant.
 
-
+:::{.column-screen}
+![](media/prova.jpeg){fig-align="left"}
+:::
 
 ## Last Blog Posts
 :::{#blog_post}

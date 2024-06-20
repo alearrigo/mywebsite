@@ -36,6 +36,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -207,16 +208,22 @@ window.Quarto = {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-trestles content">
-  <div class="about-entity">
-    <img src="media/prova.jpeg" class="about-image
-  round " style="height: 20em; width: 20em;">
-  </div>
-  <div class="about-contents"><main class="content" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
+
+
+
+
 <p>Hi, I’m <strong>Alessandro</strong>.</p>
 <p>I’m a Data Scientist and Healtcare Consultant.</p>
+<div class="page-columns page-full">
+<div class="quarto-figure quarto-figure-left page-columns page-full">
+<figure class="figure page-columns page-full">
+<p class="page-columns page-full"><img src="media/prova.jpeg" class="img-fluid quarto-figure quarto-figure-left figure-img column-screen"></p>
+</figure>
+</div>
+</div>
 <section id="last-blog-posts" class="level2">
-<h2 data-anchor-id="last-blog-posts">Last Blog Posts</h2>
+<h2 class="anchored" data-anchor-id="last-blog-posts">Last Blog Posts</h2>
 <div id="listing-blog_post" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
 <div class="g-col-1" data-index="0" data-categories="news" data-listing-date-sort="1718748000000" data-listing-file-modified-sort="1718812888608" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
@@ -260,10 +267,10 @@ No matching items
 </div>
 
 
+
 </section>
-</main></div>
-</div>
- <!-- /main -->
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -284,6 +291,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
