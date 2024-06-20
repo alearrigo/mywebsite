@@ -2,6 +2,7 @@ authorname: "Alessandro Arrigo"
 
 project:
   type: website
+  output-dir: docs
   
 title-meta: "Marvin Schmitt"
 description-meta: "Computer Scientist & Psychologist | PhD researcher | Deep Learning, Data Science, Research"
@@ -10,7 +11,7 @@ description-meta: "Computer Scientist & Psychologist | PhD researcher | Deep Lea
 website:
   title: "Alessandro Arrigo"
   description: "Data Scientist | Healthcare Consultant"
-  #site-url: https://alearrigo.com
+  site-url: https://alearrigo.com
   
   search: 
     location: navbar
@@ -37,6 +38,8 @@ website:
       href: https://www.linkedin.com/in/alessandro-arrigo-82264332/
     - icon: envelope
       href: mailto:alessandro.arrigo.stat@gmail.com
+    - icon: rss
+      href: index.xml
     
   page-footer:
     background: dark

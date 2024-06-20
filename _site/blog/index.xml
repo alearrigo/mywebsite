@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Alessandro Arrigo</title>
+<link>https://alearrigo.com/blog/</link>
+<atom:link href="https://alearrigo.com/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description>Data Scientist | Healthcare Consultant</description>
+<generator>quarto-1.4.554</generator>
+<lastBuildDate>Tue, 18 Jun 2024 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Test post 1</title>
+  <link>https://alearrigo.com/blog/01_test/01_test.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://alearrigo.com/blog/01_test/01_test.html</guid>
+  <pubDate>Tue, 18 Jun 2024 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Test post 0</title>
+  <link>https://alearrigo.com/blog/00_test/00_test.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://alearrigo.com/blog/00_test/00_test.html</guid>
+  <pubDate>Mon, 17 Jun 2024 22:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
