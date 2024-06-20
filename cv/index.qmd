@@ -4,7 +4,7 @@ title: Curriculum vitae
 excerpt: My current CV
 comments: false
 execute:
-  freeze: true  # never re-render during project render
+  freeze: false  # never re-render during project render
 engine: knitr 
 cv:
   pdf: "cv.pdf"
