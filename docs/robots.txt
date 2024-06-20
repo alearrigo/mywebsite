@@ -1,1 +1,1 @@
-Sitemap: https://alearrigo.com/sitemap.xml
+Sitemap: https://alearrigo.github.io/mywebsite/sitemap.xml
