@@ -4,8 +4,8 @@ project:
   type: website
   output-dir: docs
   
-title-meta: "Marvin Schmitt"
-description-meta: "Computer Scientist & Psychologist | PhD researcher | Deep Learning, Data Science, Research"
+title-meta: "Alessandro Arrigo"
+description-meta: "Statistician | R Developer | Healthcare Consultant"
 
 
 website:
@@ -39,7 +39,7 @@ website:
     - icon: envelope
       href: mailto:alessandro.arrigo.stat@gmail.com
     - icon: rss
-      href: index.xml
+      href: docs/blog/index.xml
     
   page-footer:
     background: dark
