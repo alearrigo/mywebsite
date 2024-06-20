@@ -1,6 +1,6 @@
 ---
 #title: "Alessandro Arrigo"
-image: media/prova.jpeg
+#image: media/prova.jpeg
 toc: false
 # about:
 #  template: trestles # see other templates at https://quarto.org/docs/websites/website-about.html#templates
@@ -18,14 +18,67 @@ listing:
 ---
 
 
-Hi, I'm **Alessandro**.
 
-I'm a Data Scientist and Healtcare Consultant.
+::: {.column-screen}
+```{=html}
+<link rel="stylesheet" href="html/landing_page_styles.css">
 
-:::{.column-screen}
-![](media/prova.jpeg){fig-align="left"}
+<div class="gradient_bg">
+    <div class="hero section_padding">
+        <div class="hero_content">
+            <h1>Hi, I'm <span class="gradient_text">Alessandro</span>.</h1>
+            <p>I am a Statistician and R Developer working in consulting in Italian Healthcare Public Sector. I truly believe that R belong to production and with my clients bla bla </p>
+            <p>Attualmente lavoro per Suaders e per KPMG</p>
+            <p>If you want to work with me as a collaborator, supervisor, instructor, or public speaker, drop me a message: <a href="mailto:alessandro.arrigo.stat@gmail.com"><span>alessandro.arrigo.stat@gmail.com</span></a></p>
+            <div class="hero_content_below_button">
+                <span>or <a href="blog/index.html" style="text-decoration: underline">read a bit of my blog first</a>.</span>
+            </div>
+        </div>
+        <div class="hero_image">
+            <img src="/media/prova.jpeg"/>
+        </div>
+    </div>
+</div>
+
+```
+
+
+
+
+```{=html}
+
+<!-- Animazione  -->
+<div>
+<svg viewBox="0 0 120 30">
+ <defs> 
+   <filter id="goo">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2" result="blur" />
+      <feColorMatrix in="blur" mode="matrix" values="
+           1 0 0 0 0  
+           0 1 0 0 0  
+           0 0 1 0 0  
+           0 0 0 13 -9" result="goo" />
+      <feBlend in="SourceGraphic" in2="goo" />
+  	</filter>
+     <path id="wave" d="M 0,10 C 30,10 30,15 60,15 90,15 90,10 120,10 150,10 150,15 180,15 210,15 210,10 240,10 v 28 h -240 z" />
+  </defs> 
+
+   <use id="wave3" class="wave" xlink:href="#wave" x="0" y="-2" ></use> 
+   <use id="wave2" class="wave" xlink:href="#wave" x="0" y="0" ></use>
+  <use id="wave1" class="wave" xlink:href="#wave" x="0" y="1" /></use>
+  
+
+</svg>
+</div>
+```
+
 :::
 
+
+
+
+
 ## Last Blog Posts
-:::{#blog_post}
+
+::: {#blog_post}
 :::
