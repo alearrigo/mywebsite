@@ -3,8 +3,8 @@ layout: page
 title: Curriculum vitae
 excerpt: My current CV
 comments: false
-execute:
-  freeze: false  # never re-render during project render
+# execute:
+#   freeze: false  # never re-render during project render
 engine: knitr 
 cv:
   pdf: "cv.pdf"
