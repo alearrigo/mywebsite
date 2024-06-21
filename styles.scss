@@ -61,6 +61,24 @@ $btn-code-copy-color-active: $teal !default;
 
 /*-- scss:rules --*/
 
+/* Variabili */
+:root {
+  --gradient-text: var(--color-primary);
+  --gradient-bar: linear-gradient(103.22deg, #c7c7c7 -13.86%, #ff7a48 99.55%);
+  --color-primary: #20c997;
+  --color-bg: #fff;
+  --color-bg-1: #b3a69f;
+  --color-bg-2: #d8f2ea;
+  --color-text: #000;
+  --color-subtext: #20c997;
+
+  /* Variabili Bootstrap Navbar */
+  --bs-navbar-color: #fff;
+  --bs-navbar-hover-color: var(--color-primary);
+  --bs-navbar-active-color: var(--color-primary);
+  --bs-navbar-brand-color: #fff;
+  --bs-navbar-brand-hover-color: var(--color-primary);
+}
 
 main {
   margin-top: 0;
@@ -92,11 +110,20 @@ pre.text, pre.sourceCode, .cell-output pre {
 }
 
 
+
+.aa-SubmitIcon {
+    color:  #20c997;  
+}
+
+.aa-Submiticon {
+    color:  #20c997;  
+}
+
 .fixed-top {
  z-index:1000; 
 }
 
-.navbar-dark .navbar-nav .nav-link {
+.navbar-dark, .navbar-nav, .nav-link {
   z-index:0;
   color: #fff;
 }

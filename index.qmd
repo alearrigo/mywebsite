@@ -25,7 +25,7 @@ listing:
             
           <p>  I'm a Data Scientist and I'm currently working as a freelancer for various institutional and private clients.  One of my long-term clients is the Health Department of the Sicilian Region, where I have gained extensive expertise in the healthcare sector. Additionally, I work as a Product Manager for <a href="https://www.suaders.it/" style="text-decoration: underline; text-decoration-color:var(--color-primary)" >Suaders</a> , a company that develops business intelligence products for the healthcare sector.</p>
 
-<p>I am a firm believer in the potential of R in the modern data landscape, and I constantly seek to update my skills and explore the latest open-source tools. In my work, I strive to demonstrate to clients the importance and advantages of open source. </p>
+<p>I am a firm believer in the potential of R in the modern data landscape, and I constantly seek to update my skills and explore the latest open-source tools. </p>
 
 <p>If you want to work with me or just want to connect, drop me a message: <a href="mailto:alessandro.arrigo.stat@gmail.com" style="text-decoration: underline; text-decoration-color:var(--color-primary)" >alessandro.arrigo.stat@gmail.com</a>  or <a href="blog/index.html" style="text-decoration: underline; text-decoration-color:var(--color-primary)">read a bit of my blog first</a>.</p>
 
