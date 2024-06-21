@@ -1,3 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://alearrigo.github.io/mywebsite/index.html</loc>
+    <lastmod>2024-06-21T04:54:15.339Z</lastmod>
+  </url>
+  <url>
+    <loc>https://alearrigo.github.io/mywebsite/blog/01_test/01_test.html</loc>
+    <lastmod>2024-06-19T16:01:28.608Z</lastmod>
+  </url>
+  <url>
+    <loc>https://alearrigo.github.io/mywebsite/blog/index.html</loc>
+    <lastmod>2024-06-20T10:08:40.228Z</lastmod>
+  </url>
+  <url>
+    <loc>https://alearrigo.github.io/mywebsite/projects/index.html</loc>
+    <lastmod>2024-06-20T14:40:08.256Z</lastmod>
+  </url>
+  <url>
+    <loc>https://alearrigo.github.io/mywebsite/resources/index.html</loc>
+    <lastmod>2024-06-20T14:44:36.700Z</lastmod>
+  </url>
+  <url>
+    <loc>https://alearrigo.github.io/mywebsite/blog/00_test/00_test.html</loc>
+    <lastmod>2024-06-19T16:01:46.463Z</lastmod>
+  </url>
+  <url>
+    <loc>https://alearrigo.github.io/mywebsite/cv/index.html</loc>
+    <lastmod>2024-06-21T04:44:42.513Z</lastmod>
+  </url>
 </urlset>
