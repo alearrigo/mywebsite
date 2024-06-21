@@ -134,6 +134,11 @@ pre.text, pre.sourceCode, .cell-output pre {
   z-index: 10;
 }
 
+
+.navbar #quarto-search.type-overlay .aa-Autocomplete svg.aa-SubmitIcon {
+color:var(--color-primary);
+}
+
 .quarto-grid-item img.thumbnail-image {
                 height: 100%;
                 object-fit: contain;
