@@ -75,7 +75,7 @@ listing:
 
 
 
-## Last Blog Posts
+## Latest Blog Posts
 
 ::: {#blog_post}
 :::
