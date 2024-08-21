@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Hi, I'm Alessandro.",
@@ -12,20 +19,6 @@
     "title": "Hi, I'm Alessandro.",
     "section": "Latest Blog Posts",
     "text": "Latest Blog Posts\n\n\n\n\n\n\n\n\nTest post 1\n\n\n\nJun 19, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nTest post 0\n\n\n\nJun 18, 2024\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "My Blog",
-    "section": "",
-    "text": "news\n\n\n\nTest post\n\n\n\n\n\nJun 19, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\nTest post\n\n\n\n\n\nJun 18, 2024\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "blog/index.html#section",
-    "href": "blog/index.html#section",
-    "title": "My Blog",
-    "section": "",
-    "text": "news\n\n\n\nTest post\n\n\n\n\n\nJun 19, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\nTest post\n\n\n\n\n\nJun 18, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/index.html",
@@ -49,10 +42,17 @@
     "text": "A\nB"
   },
   {
-    "objectID": "cv/index.html",
-    "href": "cv/index.html",
-    "title": "Curriculum vitae",
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "My Blog",
     "section": "",
-    "text": "Download current CV"
+    "text": "news\n\n\n\nTest post\n\n\n\n\n\nJun 19, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\nTest post\n\n\n\n\n\nJun 18, 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/index.html#section",
+    "href": "blog/index.html#section",
+    "title": "My Blog",
+    "section": "",
+    "text": "news\n\n\n\nTest post\n\n\n\n\n\nJun 19, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\nTest post\n\n\n\n\n\nJun 18, 2024\n\n\n\n\n\n\nNo matching items"
   }
 ]
