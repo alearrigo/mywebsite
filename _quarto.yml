@@ -3,6 +3,8 @@ authorname: "Alessandro Arrigo"
 project:
   type: website
   output-dir: docs
+  resources:
+  - CNAME
   
 title-meta: "Alessandro Arrigo"
 description-meta: "Statistician | R Developer | Healthcare Consultant"
