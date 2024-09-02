@@ -4,7 +4,7 @@ project:
   type: website
   output-dir: docs
   resources:
-  - CNAME
+    - /docs/CNAME
   
 title-meta: "Alessandro Arrigo"
 description-meta: "Statistician | R Developer | Healthcare Consultant"
