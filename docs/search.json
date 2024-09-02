@@ -32,14 +32,14 @@
     "href": "resources/index.html",
     "title": "Resources",
     "section": "",
-    "text": "A\nB"
+    "text": "Book A\n\n&lt;div class=\"resource-description\"&gt;A brief description of Book A.&lt;/div&gt;\n \n\nBook B\n\n&lt;div class=\"resource-description\"&gt;A brief description of Book B.&lt;/div&gt;"
   },
   {
     "objectID": "resources/index.html#books",
     "href": "resources/index.html#books",
     "title": "Resources",
     "section": "",
-    "text": "A\nB"
+    "text": "Book A\n\n&lt;div class=\"resource-description\"&gt;A brief description of Book A.&lt;/div&gt;\n \n\nBook B\n\n&lt;div class=\"resource-description\"&gt;A brief description of Book B.&lt;/div&gt;"
   },
   {
     "objectID": "blog/index.html",
