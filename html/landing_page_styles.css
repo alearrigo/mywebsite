@@ -40,9 +40,6 @@ a {
     text-decoration-color: var(--color-primary); /* Usa il colore primario per la decorazione del testo */
 }
 
-
-
-
 .gradient_text {
     background: var(--gradient-text);
     background-clip: text;
@@ -121,7 +118,7 @@ a {
     z-index: 1;
     max-width: 2000px;
     margin: auto;
-    padding-top: 6rem;
+    padding-top: 2rem;
 }
 
 .hero_content {

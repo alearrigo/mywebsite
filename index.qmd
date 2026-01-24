@@ -19,10 +19,10 @@ listing:
 <link rel="stylesheet" href="html/landing_page_styles.css">
 
 <div class="gradient_bg">
+  <h1 style="display:none;"></h1>
     <div class="hero section_padding">
         <div class="hero_content">
-            <h1>Hi, I'm <span class="gradient_text">Alessandro</span>.</h1>
-            
+          <h1>Hi, I'm <span class="gradient_text">Alessandro</span>.</h1>
           <p>  I'm a Data Scientist and I'm currently working as a freelancer for various institutional and private clients.  One of my long-term clients is the Health Department of the Sicilian Region, where I have gained extensive expertise in the healthcare sector. Additionally, I work as a Product Manager for <a href="https://www.suaders.it/" style="text-decoration: underline; text-decoration-color:var(--color-primary)" >Suaders</a> , a company that develops business intelligence products for the healthcare sector.</p>
 
 <p>I am a firm believer in the potential of R in the modern data landscape, and I constantly seek to update my skills and explore the latest open-source tools. </p>
