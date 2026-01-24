@@ -9,7 +9,7 @@
 <link>https://alearrigo.github.io/mywebsite/blog/</link>
 <atom:link href="https://alearrigo.github.io/mywebsite/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Data Scientist | Healthcare Consultant</description>
-<generator>quarto-1.4.554</generator>
+<generator>quarto-1.6.40</generator>
 <lastBuildDate>Tue, 18 Jun 2024 22:00:00 GMT</lastBuildDate>
 <item>
   <title>Test post 1</title>
@@ -37,6 +37,7 @@
 
 
 
+<p>prova</p>
 
 
 

@@ -7,6 +7,13 @@
     "text": "Download current CV"
   },
   {
+    "objectID": "blog/00_test/00_test.html",
+    "href": "blog/00_test/00_test.html",
+    "title": "Test post 0",
+    "section": "",
+    "text": "prova"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Hi, I'm Alessandro.",
@@ -26,20 +33,6 @@
     "title": "Project",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "resources/index.html",
-    "href": "resources/index.html",
-    "title": "Resources",
-    "section": "",
-    "text": "Book A\n\n&lt;div class=\"resource-description\"&gt;A brief description of Book A.&lt;/div&gt;\n \n\nBook B\n\n&lt;div class=\"resource-description\"&gt;A brief description of Book B.&lt;/div&gt;"
-  },
-  {
-    "objectID": "resources/index.html#books",
-    "href": "resources/index.html#books",
-    "title": "Resources",
-    "section": "",
-    "text": "Book A\n\n&lt;div class=\"resource-description\"&gt;A brief description of Book A.&lt;/div&gt;\n \n\nBook B\n\n&lt;div class=\"resource-description\"&gt;A brief description of Book B.&lt;/div&gt;"
   },
   {
     "objectID": "blog/index.html",
